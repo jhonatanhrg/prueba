@@ -1,0 +1,19 @@
+#esto es un comentario 
+# name/ esto ignora a todos estos
+# build/
+# nbproject/
+# *.class esto ignora a algo especifico
+# con www.gitignore.io nos ayuda para no hacerlo a mano,esto es el ejemplo del ide netbeans. Talvez en un futuro no sepamos q cosa generara el ide
+
+# Created by https://www.gitignore.io
+
+### NetBeans ###
+nbproject/private/
+nbproject/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+.nb-gradle/
